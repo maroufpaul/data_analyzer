@@ -53,6 +53,6 @@
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/omics-data-analyzer.git
+   git clone https://github.com/yourusername/omics-data-analyzer.git](https://github.com/maroufpaul/data_analyzer.git 
    cd omics-data-analyzer
 
